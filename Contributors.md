@@ -6,6 +6,7 @@
 - [Nikhil Goswami](https://github.com/MileWhile) - Hello Contributors....
 - [Rupinder][https://github.com/rupinder-bhatty/first-contributions.git] - Hello World...
 - [Aditya Jaiswal](https://github.com/AdityaCJaiswal) - Adi was here! Lets connect, build and learn together.
+I'm tired to figure out how to start doing open source so i ended up here. Now best of luck to me
 - [Heiliger Paul] (https://github.com/Heiliger4) – From Addis Ababa to the world—this is my first open source footprint. More to come.
 - [Abhilasha Kiran] (https://github.com/abheelasha) - Abhilasha's first Github Contribution
 - [Mathias Hadji](https://github.com/Mathias-Hadji) - Hello World 🌍
